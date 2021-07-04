@@ -17,6 +17,7 @@ body{
  }
  section{
     display:flex;
+    margin-bottom: 150px;
  }
  .half-widht{
      width: 100%;
@@ -31,11 +32,32 @@ body{
      color:white;
      padding: 15px 40px;
      margin: solid;
-     border-radius: 16px;
+     border-radius: 15px;
 
  }
  .regular-redy{
      background-image: url(images/regular-redy.png);
      background-repeat: no-repeat;
+     
  }
+ .taste-big{
+     background-image: url(images/taste.png);
+     background-repeat: no-repeat;
+     background-position: right;
+ }
+ }
+ .wrong-maro{
+     color:red;
+ }
+  .ultra-push{
+      color: orange;
+  }
+  .core-lock{
+      color: green;
+      font-size: 30px ;
+  }
+  section{
+      display:flex;
+  }
+ 
   
