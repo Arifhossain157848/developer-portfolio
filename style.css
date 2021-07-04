@@ -1,0 +1,21 @@
+p{
+    color:red;
+    background-color:yellow;
+    border: 30px solid rgb(236, 2, 2);
+    border-radius:120px ;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin: 35px auto;
+    margin-block-start:inherit;
+    padding: 10px 20px ;
+    width: 68%;
+    height: 110px;
+    font-size:40px;
+    font-family:inherit;
+    
+    
+
+
+}
