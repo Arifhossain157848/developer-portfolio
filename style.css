@@ -70,10 +70,12 @@ body{
   }
  .new-look{
      color:black;
+     font-size: 20px;
 
  }
   .disk-core{
       color: blue;
+      font-size: 20px;
   }
   .for-cat{
        color:green;
